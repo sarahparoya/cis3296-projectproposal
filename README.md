@@ -48,6 +48,6 @@ This discord bot requires the host to have Python 3 and discord.py
 - Discord Account
 -  [Discord's Python API](https://discordpy.readthedocs.io/en/latest/ "Discords Python API")
 - [YouTube Data API](https://developers.google.com/youtube/v3/docs/search/list)
-- This project would require a discord server for testing. <p> <p>
+- [Discord Testing Server](https://discord.gg/nfv7TS5A) <p> <p>
 ![jukebot1](https://user-images.githubusercontent.com/63789040/108933445-2a3f8d00-7619-11eb-9ed5-8582f5bf3646.png)
 ![jukebot2](https://user-images.githubusercontent.com/63789040/108933453-2ca1e700-7619-11eb-8d27-8c4790ef8919.png)
