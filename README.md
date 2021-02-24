@@ -32,10 +32,12 @@ channel. To be able to listen to the song you would also have to be
 connected to the voice channel. 
 ## Background
 This repository contains a very basic helloworld.py file, 
-which connects the bot to the testing server and responds to all 
-inputs starting with the character `!` with "Hello World".  
+which connects the bot to the testing server and responds to the
+command `!hello_world` with "Hello World" texted in the chat.  
+![](projectproposal.gif)<p>
 This discord bot requires the host to have Python 3 and discord.py 
-(Discord’s python API) installed before use. The initial planned features/commands include:
+(Discord’s python API) installed before use.<p>
+The initial planned features/commands include:
 - `!connect [channel name]:` connects bot to the desired voice channel <p>
 - `!disconnect:` disconnects bot from voice channel. <p>
 - `!play [song name, link, title, keyword, etc.]:` plays the audio of the requested YouTube video<p>
